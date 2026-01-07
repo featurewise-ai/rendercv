@@ -779,7 +779,7 @@ education_entry_degree_column_template_field_info = pydantic.Field(
     ),
 )
 education_entry_degree_column_width_field_info = pydantic.Field(
-    default="1cm",
+    default="4cm",
     title="Width of the Degree Column",
     description=(
         'The width of the degree column if the "degree_column_template" is given.'

@@ -58,7 +58,7 @@
 #let design-page-show-last-updated-date = true
 #let design-page-show-page-numbering = false
 #let design-links-underline = false
-#let design-entry-types-education-entry-degree-column-width = 1cm
+#let design-entry-types-education-entry-degree-column-width = 4cm
 #let date = datetime.today()
 
 // Metadata:

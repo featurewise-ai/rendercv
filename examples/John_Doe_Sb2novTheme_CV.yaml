@@ -185,7 +185,7 @@ design:
         **INSTITUTION**
         *DEGREE in AREA*
       degree_column_template:
-      degree_column_width: 1cm
+      degree_column_width: 4cm
       main_column_second_row_template: |-
         SUMMARY
         HIGHLIGHTS

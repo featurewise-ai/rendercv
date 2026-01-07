@@ -131,7 +131,7 @@
             "education_entry": {
               "date_and_location_column_template": "LOCATION\nDATE",
               "degree_column_template": "**DEGREE**",
-              "degree_column_width": "1cm",
+              "degree_column_width": "4cm",
               "main_column_first_row_template": "**INSTITUTION**, AREA",
               "main_column_second_row_template": "SUMMARY\nHIGHLIGHTS"
             },
@@ -835,7 +835,7 @@
             "education_entry": {
               "date_and_location_column_template": "DATE",
               "degree_column_template": "**DEGREE**",
-              "degree_column_width": "1cm",
+              "degree_column_width": "4cm",
               "main_column_first_row_template": "**INSTITUTION**, AREA -- LOCATION",
               "main_column_second_row_template": "SUMMARY\nHIGHLIGHTS"
             },
@@ -995,7 +995,7 @@
             "education_entry": {
               "date_and_location_column_template": "DATE",
               "degree_column_template": null,
-              "degree_column_width": "1cm",
+              "degree_column_width": "4cm",
               "main_column_first_row_template": "**INSTITUTION**, DEGREE in AREA -- LOCATION",
               "main_column_second_row_template": "SUMMARY\nHIGHLIGHTS"
             },
@@ -1046,7 +1046,7 @@
           "default": {
             "main_column_first_row_template": "**INSTITUTION**, AREA",
             "degree_column_template": "**DEGREE**",
-            "degree_column_width": "1cm",
+            "degree_column_width": "4cm",
             "main_column_second_row_template": "SUMMARY\nHIGHLIGHTS",
             "date_and_location_column_template": "LOCATION\nDATE"
           },
@@ -1548,7 +1548,7 @@
             "education_entry": {
               "date_and_location_column_template": "DATE",
               "degree_column_template": null,
-              "degree_column_width": "1cm",
+              "degree_column_width": "4cm",
               "main_column_first_row_template": "**INSTITUTION**, DEGREE in AREA -- LOCATION",
               "main_column_second_row_template": "SUMMARY\nHIGHLIGHTS"
             },
@@ -2282,7 +2282,7 @@
             "education_entry": {
               "date_and_location_column_template": "*LOCATION*\n*DATE*",
               "degree_column_template": null,
-              "degree_column_width": "1cm",
+              "degree_column_width": "4cm",
               "main_column_first_row_template": "**INSTITUTION**\n*DEGREE in AREA*",
               "main_column_second_row_template": "SUMMARY\nHIGHLIGHTS"
             },
@@ -2376,7 +2376,7 @@
           ]
         },
         "degree_column_width": {
-          "default": "1cm",
+          "default": "4cm",
           "description": "The width of the degree column if the \"degree_column_template\" is given.",
           "title": "Width of the Degree Column",
           "type": "string"
@@ -2412,7 +2412,7 @@
           "default": {
             "main_column_first_row_template": "**INSTITUTION**, AREA -- LOCATION",
             "degree_column_template": "**DEGREE**",
-            "degree_column_width": "1cm",
+            "degree_column_width": "4cm",
             "main_column_second_row_template": "SUMMARY\nHIGHLIGHTS",
             "date_and_location_column_template": "DATE"
           },
@@ -3129,7 +3129,7 @@
           ]
         },
         "degree_column_width": {
-          "default": "1cm",
+          "default": "4cm",
           "description": "The width of the degree column if the \"degree_column_template\" is given.",
           "title": "Width of the Degree Column",
           "type": "string"
@@ -3223,7 +3223,7 @@
           "default": {
             "main_column_first_row_template": "**INSTITUTION**, DEGREE in AREA -- LOCATION",
             "degree_column_template": null,
-            "degree_column_width": "1cm",
+            "degree_column_width": "4cm",
             "main_column_second_row_template": "SUMMARY\nHIGHLIGHTS",
             "date_and_location_column_template": "DATE"
           },
@@ -3847,7 +3847,7 @@
           ]
         },
         "degree_column_width": {
-          "default": "1cm",
+          "default": "4cm",
           "description": "The width of the degree column if the \"degree_column_template\" is given.",
           "title": "Width of the Degree Column",
           "type": "string"
@@ -3941,7 +3941,7 @@
           "default": {
             "main_column_first_row_template": "**INSTITUTION**, DEGREE in AREA -- LOCATION",
             "degree_column_template": null,
-            "degree_column_width": "1cm",
+            "degree_column_width": "4cm",
             "main_column_second_row_template": "SUMMARY\nHIGHLIGHTS",
             "date_and_location_column_template": "DATE"
           },
@@ -4591,7 +4591,7 @@
           ]
         },
         "degree_column_width": {
-          "default": "1cm",
+          "default": "4cm",
           "description": "The width of the degree column if the \"degree_column_template\" is given.",
           "title": "Width of the Degree Column",
           "type": "string"
@@ -5344,7 +5344,7 @@
           ]
         },
         "degree_column_width": {
-          "default": "1cm",
+          "default": "4cm",
           "description": "The width of the degree column if the \"degree_column_template\" is given.",
           "title": "Width of the Degree Column",
           "type": "string"
@@ -5380,7 +5380,7 @@
           "default": {
             "main_column_first_row_template": "**INSTITUTION**\n*DEGREE in AREA*",
             "degree_column_template": null,
-            "degree_column_width": "1cm",
+            "degree_column_width": "4cm",
             "main_column_second_row_template": "SUMMARY\nHIGHLIGHTS",
             "date_and_location_column_template": "*LOCATION*\n*DATE*"
           },
@@ -6015,7 +6015,7 @@
           "education_entry": {
             "date_and_location_column_template": "LOCATION\nDATE",
             "degree_column_template": "**DEGREE**",
-            "degree_column_width": "1cm",
+            "degree_column_width": "4cm",
             "main_column_first_row_template": "**INSTITUTION**, AREA",
             "main_column_second_row_template": "SUMMARY\nHIGHLIGHTS"
           },

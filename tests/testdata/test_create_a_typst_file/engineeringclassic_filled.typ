@@ -58,7 +58,7 @@
 #let design-page-show-last-updated-date = true
 #let design-page-show-page-numbering = false
 #let design-links-underline = false
-#let design-entry-types-education-entry-degree-column-width = 1cm
+#let design-entry-types-education-entry-degree-column-width = 4cm
 #let date = datetime.today()
 
 // Metadata:
@@ -1683,7 +1683,7 @@
 
 // NO DATE, YES DEGREE
 #two-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   right-column-width: 1fr,
   alignments: (left, left),
   left-content: [
@@ -1697,7 +1697,7 @@
 #v(design-entries-vertical-space-between-entries)
 // NO DATE, YES DEGREE
 #two-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   right-column-width: 1fr,
   alignments: (left, left),
   left-content: [
@@ -1711,7 +1711,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -1724,7 +1724,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -1737,7 +1737,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -1750,7 +1750,7 @@
 #v(design-entries-vertical-space-between-entries)
 // NO DATE, YES DEGREE
 #two-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   right-column-width: 1fr,
   alignments: (left, left),
   left-content: [
@@ -1764,7 +1764,7 @@
 #v(design-entries-vertical-space-between-entries)
 // NO DATE, YES DEGREE
 #two-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   right-column-width: 1fr,
   alignments: (left, left),
   left-content: [
@@ -1788,7 +1788,7 @@
 #v(design-entries-vertical-space-between-entries)
 // NO DATE, YES DEGREE
 #two-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   right-column-width: 1fr,
   alignments: (left, left),
   left-content: [
@@ -1812,7 +1812,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -1825,7 +1825,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -1838,7 +1838,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -1851,7 +1851,7 @@
 #v(design-entries-vertical-space-between-entries)
 // NO DATE, YES DEGREE
 #two-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   right-column-width: 1fr,
   alignments: (left, left),
   left-content: [
@@ -1865,7 +1865,7 @@
 #v(design-entries-vertical-space-between-entries)
 // NO DATE, YES DEGREE
 #two-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   right-column-width: 1fr,
   alignments: (left, left),
   left-content: [
@@ -1889,7 +1889,7 @@
 #v(design-entries-vertical-space-between-entries)
 // NO DATE, YES DEGREE
 #two-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   right-column-width: 1fr,
   alignments: (left, left),
   left-content: [
@@ -1913,7 +1913,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -1926,7 +1926,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -1939,7 +1939,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -1952,7 +1952,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -1975,7 +1975,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -1998,7 +1998,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2011,7 +2011,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -2024,7 +2024,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2047,7 +2047,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2070,7 +2070,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -2083,7 +2083,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2106,7 +2106,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2129,7 +2129,7 @@
 #v(design-entries-vertical-space-between-entries)
 // NO DATE, YES DEGREE
 #two-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   right-column-width: 1fr,
   alignments: (left, left),
   left-content: [
@@ -2153,7 +2153,7 @@
 #v(design-entries-vertical-space-between-entries)
 // NO DATE, YES DEGREE
 #two-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   right-column-width: 1fr,
   alignments: (left, left),
   left-content: [
@@ -2177,7 +2177,7 @@
 #v(design-entries-vertical-space-between-entries)
 // NO DATE, YES DEGREE
 #two-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   right-column-width: 1fr,
   alignments: (left, left),
   left-content: [
@@ -2203,7 +2203,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2216,7 +2216,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2229,7 +2229,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -2242,7 +2242,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2265,7 +2265,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2288,7 +2288,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2301,7 +2301,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -2314,7 +2314,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2337,7 +2337,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2360,7 +2360,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -2373,7 +2373,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2396,7 +2396,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2419,7 +2419,7 @@
 #v(design-entries-vertical-space-between-entries)
 // NO DATE, YES DEGREE
 #two-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   right-column-width: 1fr,
   alignments: (left, left),
   left-content: [
@@ -2443,7 +2443,7 @@
 #v(design-entries-vertical-space-between-entries)
 // NO DATE, YES DEGREE
 #two-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   right-column-width: 1fr,
   alignments: (left, left),
   left-content: [
@@ -2467,7 +2467,7 @@
 #v(design-entries-vertical-space-between-entries)
 // NO DATE, YES DEGREE
 #two-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   right-column-width: 1fr,
   alignments: (left, left),
   left-content: [
@@ -2493,7 +2493,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2506,7 +2506,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -2519,7 +2519,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2542,7 +2542,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2565,7 +2565,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -2578,7 +2578,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2601,7 +2601,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2624,7 +2624,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -2647,7 +2647,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -2670,7 +2670,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2695,7 +2695,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -2708,7 +2708,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2731,7 +2731,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2754,7 +2754,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -2777,7 +2777,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -2800,7 +2800,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2825,7 +2825,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -2848,7 +2848,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -2871,7 +2871,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2896,7 +2896,7 @@
 #v(design-entries-vertical-space-between-entries)
 // NO DATE, YES DEGREE
 #two-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   right-column-width: 1fr,
   alignments: (left, left),
   left-content: [
@@ -2922,7 +2922,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2935,7 +2935,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -2948,7 +2948,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2971,7 +2971,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -2994,7 +2994,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3007,7 +3007,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3030,7 +3030,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3053,7 +3053,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3076,7 +3076,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3099,7 +3099,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3124,7 +3124,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3137,7 +3137,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3160,7 +3160,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3183,7 +3183,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3206,7 +3206,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3229,7 +3229,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3254,7 +3254,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3277,7 +3277,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3300,7 +3300,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3325,7 +3325,7 @@
 #v(design-entries-vertical-space-between-entries)
 // NO DATE, YES DEGREE
 #two-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   right-column-width: 1fr,
   alignments: (left, left),
   left-content: [
@@ -3351,7 +3351,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3364,7 +3364,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3387,7 +3387,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3410,7 +3410,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3433,7 +3433,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3456,7 +3456,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3481,7 +3481,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3504,7 +3504,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3527,7 +3527,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3552,7 +3552,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3577,7 +3577,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3600,7 +3600,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3623,7 +3623,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3648,7 +3648,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3673,7 +3673,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3698,7 +3698,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3711,7 +3711,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3734,7 +3734,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3757,7 +3757,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3780,7 +3780,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3803,7 +3803,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3828,7 +3828,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3851,7 +3851,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3874,7 +3874,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3899,7 +3899,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3924,7 +3924,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3947,7 +3947,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -3970,7 +3970,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -3995,7 +3995,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -4020,7 +4020,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -4045,7 +4045,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -4068,7 +4068,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -4091,7 +4091,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -4116,7 +4116,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -4141,7 +4141,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -4166,7 +4166,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -4191,7 +4191,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -4214,7 +4214,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -4237,7 +4237,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering 
@@ -4262,7 +4262,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -4287,7 +4287,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -4312,7 +4312,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -4337,7 +4337,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
@@ -4362,7 +4362,7 @@
 #v(design-entries-vertical-space-between-entries)
 // YES DATE, YES DEGREE
 #three-col-entry(
-  left-column-width: 1cm,
+  left-column-width: 4cm,
   left-content: [#strong[BS]],
   middle-content: [
     #strong[Boğaziçi University], Mechanical Engineering -- Istanbul, Turkey
